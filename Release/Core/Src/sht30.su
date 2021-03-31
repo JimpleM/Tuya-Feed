@@ -1,0 +1,7 @@
+sht30.c:25:16:SHT30_Send_Cmd	24	static
+sht30.c:37:6:SHT30_Reset	8	static
+sht30.c:48:9:SHT30_Init	8	static
+sht30.c:57:9:SHT30_Read_Dat	16	static
+sht30.c:62:9:CheckCrc8	16	static
+sht30.c:92:9:SHT30_Dat_To_Float	24	static
+sht30.c:112:6:SHT30_Update	16	static

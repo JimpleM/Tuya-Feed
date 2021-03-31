@@ -1,0 +1,15 @@
+protocol.c:112:6:uart_transmit_output	16	static
+protocol.c:147:6:all_data_update	8	static
+protocol.c:193:22:dp_download_meal_plan_handle	32	static
+protocol.c:217:22:dp_download_quick_feed_handle	40	static
+protocol.c:246:22:dp_download_manual_feed_handle	32	static
+protocol.c:273:22:dp_download_unit_handle	32	static
+protocol.c:310:22:dp_download_slow_feed_handle	40	static
+protocol.c:339:22:dp_download_export_calibrate_handle	40	static
+protocol.c:368:22:dp_download_weight_calibrate_handle	40	static
+protocol.c:397:22:dp_download_voice_times_handle	32	static
+protocol.c:424:22:dp_download_light_handle	32	static
+protocol.c:455:22:dp_download_switch_handle	40	static
+protocol.c:495:15:dp_download_handle	32	static
+protocol.c:557:15:get_download_cmd_total	8	static
+protocol.c:676:6:wifi_test_result	16	static

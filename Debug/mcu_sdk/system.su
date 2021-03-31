@@ -1,0 +1,13 @@
+system.c:34:16:set_wifi_uart_byte	24	static
+system.c:51:16:set_wifi_uart_buffer	24	static
+system.c:67:15:get_check_sum	24	static
+system.c:85:13:wifi_uart_write_data	16	static
+system.c:104:6:wifi_uart_write_frame	32	static
+system.c:127:13:heat_beat_check	16	static
+system.c:147:13:product_info_update	32	static
+system.c:185:13:get_mcu_wifi_mode	16	static
+system.c:204:22:get_dowmload_dpid_index	32	static
+system.c:223:22:data_point_handle	40	static
+system.c:391:6:data_handle	48	static
+system.c:734:15:with_data_rxbuff	8	static
+system.c:747:15:take_byte_rxbuff	16	static

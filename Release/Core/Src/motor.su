@@ -1,0 +1,4 @@
+motor.c:11:6:Motorcw	32	static
+motor.c:37:6:Motorccw	32	static
+motor.c:63:6:MotorStop	8	static
+motor.c:70:6:MotorHandle	24	static

@@ -1,0 +1,5 @@
+protocol.c:113:6:uart_transmit_output	16	static
+protocol.c:148:6:all_data_update	0	static
+protocol.c:495:15:dp_download_handle	8	static
+protocol.c:557:15:get_download_cmd_total	0	static
+protocol.c:676:6:wifi_test_result	0	static
